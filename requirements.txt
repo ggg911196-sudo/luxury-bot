@@ -1,0 +1,2 @@
+# حداقل مورد نیاز
+python-telegram-bot[job-queue,rate-limiter]==21.9
